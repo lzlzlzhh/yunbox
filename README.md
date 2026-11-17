@@ -30,17 +30,15 @@
 复制下面任一地址，填进客户端的「**配置地址 / 订阅 / 接口**」，回首页等待加载即可：
 
 ```
-https://raw.githubusercontent.com/<用户名>/<仓库名>/main/tvbox.json
+https://raw.githubusercontent.com/lzlzlzhh/yunbox/main/tvbox.json
 ```
 
 如果 raw 访问慢，用镜像：
 
 ```
-https://ghproxy.net/https://raw.githubusercontent.com/<用户名>/<仓库名>/main/tvbox.json
+https://ghproxy.net/https://raw.githubusercontent.com/lzlzlzhh/yunbox/main/tvbox.json
 ```
 
-> 把 `<用户名>/<仓库名>` 换成你自己的。仓库需设为 **Public**，否则客户端拿不到文件。
-> ⚠️ 不要用 `cdn.jsdelivr.net`，它对 `.jar` 会返回 403，导致所有站点空白。
 
 ## ⚠️ 免责声明
 
